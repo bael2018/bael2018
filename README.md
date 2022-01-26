@@ -1,3 +1,5 @@
-Hi there ! 
+### Hi there ! 
 
-Checkout out my recent works => https://about-me-2021.netlify.app
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bael2018)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bael2018&layout=compact)
