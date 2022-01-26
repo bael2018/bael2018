@@ -16,7 +16,6 @@
 <img align='left' alt='Sass' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
 
 <br/>
-<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bael2018)
 
