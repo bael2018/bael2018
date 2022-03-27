@@ -1,4 +1,4 @@
-### Hi there ! My name is Bayel
+### Hi there ! I am Front-end developer
 
 ### Languages and tools that i use: 
 
