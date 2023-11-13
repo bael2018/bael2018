@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/RYd05Nn/git.gif"  />
+<img align="right" height="150" src="https://i.ibb.co/RYd05Nn/git.gif" alt='gif' border='0'  />
 
 ###
 
