@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/v343G9N/gitter-min.gif" alt="gitter-min" border="0">
+  <img height='150' src="https://i.ibb.co/v343G9N/gitter-min.gif" alt="gitter-min" border="0">
 </div>
 
 ###
